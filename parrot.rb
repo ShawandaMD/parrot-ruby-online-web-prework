@@ -2,6 +2,7 @@
 # returns the phrase
 
 #parrot
- def 
+ def parrot(phrase)
+   
  
  end
